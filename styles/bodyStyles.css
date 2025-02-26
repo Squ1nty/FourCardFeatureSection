@@ -1,0 +1,6 @@
+body{
+  height: 100dvh;
+  display: grid;
+  place-content: center;
+  border: 1px solid red;
+}
