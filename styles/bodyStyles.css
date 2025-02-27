@@ -66,3 +66,16 @@ main{
 #card4{
   border-color: hsl(212, 86%, 64%);
 }
+
+.cardTextContainer{
+  font-family: Poppins, Arial;
+}
+.cardHeading{
+  color: hsl(234, 12%, 34%);
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+.cardDesc{
+  color: hsl(212, 6%, 44%);
+  font-size: 0.85rem;
+}
