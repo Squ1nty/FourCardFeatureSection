@@ -1,10 +1,8 @@
-footer{
-  border: 1px solid red;
-}
 .attribution{
-  font-size: 11px;
+  font-size: 0.75rem;
   text-align: center;
 }
 .attribution a{
+  font-size: 0.75rem;
   color: hsl(228, 45%, 44%);
 }
