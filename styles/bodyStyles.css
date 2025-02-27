@@ -10,7 +10,7 @@ main{
 /* textContainer including heading/slogan and description styling */
 
 .textContainer{
-  max-width: 25rem;
+  max-width: 20rem;
   text-align: center;
 
   font-family: Poppins, Arial;
@@ -36,5 +36,19 @@ main{
 
 .fourCardContainer{
   display: inline-block;
-  max-width: 25rem;
+  max-width: 20rem;
+  margin: 3.5rem 0;
+}
+.fourCardWrapper{
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+}
+.card{
+  border-top: 4px solid;
+  border-radius: 0.3rem;
+
+  box-shadow: 1px 1px 5px lightgray;
+
+  padding: 1rem;
 }
