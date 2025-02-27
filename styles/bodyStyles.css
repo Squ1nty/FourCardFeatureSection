@@ -46,6 +46,7 @@ main{
 .card{
   display: grid;
   grid-template-rows: 1fr 1fr;
+  gap: 2rem;
 
   border-top: 4px solid;
   border-radius: 0.3rem;
@@ -78,4 +79,11 @@ main{
 .cardDesc{
   color: hsl(212, 6%, 44%);
   font-size: 0.85rem;
+}
+
+img{
+  max-width: 3.75rem;
+}
+.imgIconContainer{
+  justify-self: end;
 }
