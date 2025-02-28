@@ -6,8 +6,8 @@ main{
   justify-content: center;
   padding: 2rem;
 }
-/* textContainer including heading/slogan and description styling */
 
+/* textContainer including heading/slogan and description styling */
 .textContainer{
   max-width: 20rem;
   text-align: center;
@@ -30,9 +30,11 @@ main{
   font-weight: 400;
   font-size: 1rem;
 }
+/* -------------------------------------------------------------- */
 
-/* --------------------------------------------------------------- */
 
+
+/* fourCardContainer and its relevant styling */
 .fourCardContainer{
   display: inline-block;
   max-width: 20rem;
@@ -87,3 +89,5 @@ img{
 .imgIconContainer{
   justify-self: end;
 }
+
+/* ------------------------------------------ */
